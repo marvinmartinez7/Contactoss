@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="name">Nombre</string>
+    <string name="app_nam">Ingrese El Nombre</string>
+    <string name="telefonp">Telefono</string>
+    <string name="numero">Ingrese El numero</string>
+    <string name="nota">Nota</string>
+    <string name="descrip">Ingrese Una Descripcion</string>
+    <string name="salvar">Guardar Contactos</string>
+    <string name="Salvados">Contactos Salvados</string>
+    <string name="Compar">Compartir Contactos</string>
+    <string name="Elimi">Eliminar Contacto</string>
+    <string name="Ver">Ver Foto</string>
+    <string name="Actualizar">Actualizar Contacto</string>
+    <string name="regresar">Atras</string>
+
+
+</resources>
